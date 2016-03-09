@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <link rel="icon"
           type="image/png"
-          href="assets/b&bicon.png">
+          href="untitledhubbbb-master/assets/b&bicon.png">
     <link type="text/css" rel="stylesheet" href="style.css"/>
     <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
     <title>Search: theB&Bhub</title>
@@ -88,7 +88,7 @@
 
 <section class="container" id="banner">
     <div class="floatleft">
-        <img src = "assets/bnblogocroporange.png" id="img">
+        <img src = "untitledhubbbb-master/assets/bnblogocroporange.png" id="img">
     </div>
     <div class="floatright">
 
@@ -287,10 +287,10 @@ NEWHTML;
 
 <section class="container2" id="spotlight">
     <nav role="sub2">
-    <img src="assets/london.jpg" id="img2">
+    <img src="untitledhubbbb-master/assets/london.jpg" id="img2">
     <p>London, England</p>
     <p><li><strong><a href="#">click to view</a></strong></li></p>
-    <img src="assets/edinburgh.jpg" id="img2">
+    <img src="untitledhubbbb-master/assets/edinburgh.jpg" id="img2">
     <p>Edinburgh, Scotland</p>
     <p><li><strong><a href="#">click to view</a></strong></li></p>
         </nav>
@@ -300,10 +300,10 @@ NEWHTML;
 
     <section class="container2" id="spotlight2">
         <nav role="sub2">
-        <img src="assets/glasgow.jpg" id="img2">
+        <img src="untitledhubbbb-master/assets/glasgow.jpg" id="img2">
         <p>Glasgow, Scotland</p>
         <p><li><strong><a href="#">click to view</a></strong></li></p>
-        <img src="assets/Aberdeen.jpg" id="img2">
+        <img src="untitledhubbbb-master/assets/Aberdeen.jpg" id="img2">
         <p>Aberdeen, Scotland</p>
         <p><li><strong><a href="#">click to view</a></strong></li></p>
             </nav>
@@ -311,10 +311,10 @@ NEWHTML;
 
     <section class="container2" id="spotlight3">
         <nav role="sub2">
-        <img src="assets/dundee.jpeg" id="img2">
+        <img src="untitledhubbbb-master/assets/dundee.jpeg" id="img2">
         <p>Dundee, Scotland</p>
         <p><li><strong><a href="#">click to view</a></strong></li></p>
-        <img src="assets/manchester.jpg" id="img2">
+        <img src="untitledhubbbb-master/assets/manchester.jpg" id="img2">
         <p>Manchester, England</p>
         <p><li><strong><a href="#">click to view</a></strong></li></p>
         </nav>

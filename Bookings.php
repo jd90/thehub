@@ -5,7 +5,7 @@
     <title>Booking: theB&Bhub</title>
     <link rel="icon"
           type="image/png"
-          href="assets/b&bicon.png">
+          href="untitledhubbbb-master/assets/b&bicon.png">
     <link type="text/css" rel="stylesheet" href="style.css"/>
     <link href='https://fonts.googleapis.com/css?family=Playfair+Display' rel='stylesheet' type='text/css'>
 </head>
@@ -15,7 +15,7 @@
     <header>
         <section class="right">
             <div class="left">
-                <img src = "assets/b&blogotransparentcrop.png" id="img">
+                <img src = "untitledhubbbb-master/assets/b&blogotransparentcrop.png" id="img">
 
 
             </div>

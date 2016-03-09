@@ -8,7 +8,7 @@ session_start();
     <meta charset="UTF-8">
     <link rel="icon"
           type="image/png"
-          href="assets/b&bicon.png">
+          href="untitledhubbbb-master/assets/b&bicon.png">
     <link type="text/css" rel="stylesheet" href="style.css"/>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,800' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
@@ -18,7 +18,7 @@ session_start();
 
 <section class="container" id="banner">
     <div class="floatleft">
-        <img src = "assets/bnblogocroporange.png" id="img">
+        <img src = "untitledhubbbb-master/assets/bnblogocroporange.png" id="img">
     </div>
     <div class="floatright">
 
