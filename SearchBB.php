@@ -111,7 +111,7 @@
         ?>
         <script>
             function logout() {
-                window.location = "http://iainscott-rgu.azurewebsites.net/SearchBB.php?value=logout";
+                window.location = "http://thebbhubdotcom.azurewebsites.net/SearchBB.php?value=logout";
             }
         </script>
     </div>

@@ -31,7 +31,7 @@ $(document).ready(function(){
                         $('#loader').remove();
                         alert("That's you signed in, chief!!");
 
-                        var form = $('<form action="http://iainscott-rgu.azurewebsites.net/SearchBB.php" method="POST">' +
+                        var form = $('<form action="http://thebbhubdotcom.azurewebsites.net/SearchBB.php" method="POST">' +
                             '<input hidden type="text" name="user" value="'+email+'" />' +
                             '</form>');
                         $('body').append(form);
